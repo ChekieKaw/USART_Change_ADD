@@ -1,0 +1,15 @@
+..\obj\pwm_out.o: ..\HARDWARE\PWM_Out.c
+..\obj\pwm_out.o: ..\HARDWARE\PWM_Out.h
+..\obj\pwm_out.o: ..\HARDWARE\sys.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h
+..\obj\pwm_out.o: ..\USER\stm32f10x.h
+..\obj\pwm_out.o: ..\CORE\core_cm3.h
+..\obj\pwm_out.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\pwm_out.o: ..\USER\system_stm32f10x.h
+..\obj\pwm_out.o: ..\USER\stm32f10x_conf.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\pwm_out.o: ..\USER\stm32f10x.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\pwm_out.o: ..\STM32F10x_FWLib\inc\misc.h

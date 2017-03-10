@@ -1,0 +1,15 @@
+..\obj\pwm_in.o: ..\HARDWARE\PWM_IN.c
+..\obj\pwm_in.o: ..\HARDWARE\PWM_IN.h
+..\obj\pwm_in.o: ..\USER\stm32f10x.h
+..\obj\pwm_in.o: ..\CORE\core_cm3.h
+..\obj\pwm_in.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\pwm_in.o: ..\USER\system_stm32f10x.h
+..\obj\pwm_in.o: ..\USER\stm32f10x_conf.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\pwm_in.o: ..\USER\stm32f10x.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\misc.h
+..\obj\pwm_in.o: ..\HARDWARE\sys.h
+..\obj\pwm_in.o: ..\STM32F10x_FWLib\inc\stm32f10x_tim.h

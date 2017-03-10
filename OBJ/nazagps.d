@@ -1,0 +1,15 @@
+..\obj\nazagps.o: ..\HARDWARE\Nazagps.c
+..\obj\nazagps.o: ..\HARDWARE\Nazagps.h
+..\obj\nazagps.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+..\obj\nazagps.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\obj\nazagps.o: ..\HARDWARE\sys.h
+..\obj\nazagps.o: ..\USER\stm32f10x.h
+..\obj\nazagps.o: ..\CORE\core_cm3.h
+..\obj\nazagps.o: ..\USER\system_stm32f10x.h
+..\obj\nazagps.o: ..\USER\stm32f10x_conf.h
+..\obj\nazagps.o: ..\STM32F10x_FWLib\inc\stm32f10x_dbgmcu.h
+..\obj\nazagps.o: ..\USER\stm32f10x.h
+..\obj\nazagps.o: ..\STM32F10x_FWLib\inc\stm32f10x_gpio.h
+..\obj\nazagps.o: ..\STM32F10x_FWLib\inc\stm32f10x_rcc.h
+..\obj\nazagps.o: ..\STM32F10x_FWLib\inc\stm32f10x_usart.h
+..\obj\nazagps.o: ..\STM32F10x_FWLib\inc\misc.h
